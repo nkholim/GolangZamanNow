@@ -1,1 +1,3 @@
 hello Nur
+Umur 58 tahun
+belajar Golang
